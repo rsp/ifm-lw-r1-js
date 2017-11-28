@@ -33,7 +33,10 @@ Solutions to the challange:
 
 Sample input
 ------------
-Sample input to test the solution: [helpers.js](helpers.js) (old syntax for easier translation to other languages)
+Sample input to test the solution: [helpers.js](helpers.js)
+
+(See helpers from [the old JavaScript solution](https://github.com/rsp/ifm-lw-r1-ojs)
+for easier translation to other languages.)
 
 Tests
 -----
