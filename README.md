@@ -46,7 +46,7 @@ Simple implementation tests:
 Extra tests on non-numerical functions:
 - [tests-extra.js](tests/tests-extra.js)
 
-Magic tests basen on `g(f(a)(g)(x)) === a(g)(x)` equality:
+Magic tests based on `g(f(a)(g)(x)) === a(g)(x)` equality:
 - [tests-magic.js](tests/tests-magic.js)
 
 Issues
