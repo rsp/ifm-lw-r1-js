@@ -40,7 +40,14 @@ for easier translation to other languages.)
 
 Tests
 -----
-Implementation tests: [tests.js](tests/tests.js)
+Simple implementation tests:
+- [tests.js](tests/tests.js)
+
+Extra tests on non-numerical functions:
+- [tests-extra.js](tests/tests-extra.js)
+
+Magic tests basen on `g(f(a)(g)(x)) === a(g)(x)` equality:
+- [tests-magic.js](tests/tests-magic.js)
 
 Issues
 ------
